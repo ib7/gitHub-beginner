@@ -1,2 +1,2 @@
 # gitHub-beginner
-my firs repository (ijust practice)
+my firs repository (i just practice)
